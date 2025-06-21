@@ -5,34 +5,35 @@
 _____
 Tasks:
 1. Make required directories
-    [] recipes
-    [] assets
+    [+] recipes
+    [+] assets
 
 2. Touch files in odin-recipes:
-    [] index.html
+    [+] index.html
 
 3. Touch files in odin-recipes/recipes:
-    [] apple-pie-by-grandma-ople.html
-    [] better-baked-beans.html
-    [] tater-tot-casserole.html
+    [+] apple-pie-by-grandma-ople.html
+    [+] better-baked-beans.html
+    [+] tater-tot-casserole.html
 
 4. Populate odin-recipes/assets with images:
-    [] apple-pie-by-grandma-ople.png 
-    [] better-baked-beans.png
-    [] tater-tot-casserole.png
+    [+] apple-pie-by-grandma-ople.png 
+    [+] better-baked-beans.png
+    [+] tater-tot-casserole.png
 
 5. Initiliaze boilerplate and add main headers
-    [] apple-pie-by-grandma-ople.html
-    [] better-baked-beans.html
-    [] tater-tot-casserole.html
+    [+] index.html
+    [+] apple-pie-by-grandma-ople.html
+    [+] better-baked-beans.html
+    [+] tater-tot-casserole.html
 
 6. Add referral links:
     6a. In all 3 recipes in odin-recipes/recipes:
-        [] index.html as Home in all 3 recipes
+        [+] index.html as Home
     6b. In index.html:
-        [] apple-pie-by-grandma-ople.html as Apple Pie by Grandma Ople
-        [] better-baked-beans.html as Better Baked Beans
-        [] tater-tot-casserole.html as Tater Tot Casserole
+        [+] apple-pie-by-grandma-ople.html as Apple Pie by Grandma Ople
+        [+] better-baked-beans.html as Better Baked Beans
+        [+] tater-tot-casserole.html as Tater Tot Casserole
         
 7. Add image, desc, ingrdts and steps to all recipes
     [] apple-pie-by-grandma-ople.html
