@@ -36,6 +36,6 @@ Tasks:
         [+] tater-tot-casserole.html as Tater Tot Casserole
         
 7. Add image, desc, ingrdts and steps to all recipes
-    [] apple-pie-by-grandma-ople.html
-    [] better-baked-beans.html
-    [] tater-tot-casserole.html
+    [+] apple-pie-by-grandma-ople.html
+    [+] better-baked-beans.html
+    [+] tater-tot-casserole.html
